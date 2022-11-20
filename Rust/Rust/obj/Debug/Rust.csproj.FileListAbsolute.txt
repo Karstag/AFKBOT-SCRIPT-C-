@@ -1,0 +1,14 @@
+C:\Users\Вова\source\repos\Rust\Rust\bin\Debug\Rust.exe.config
+C:\Users\Вова\source\repos\Rust\Rust\bin\Debug\Rust.exe
+C:\Users\Вова\source\repos\Rust\Rust\bin\Debug\Rust.pdb
+C:\Users\Вова\source\repos\Rust\Rust\bin\Debug\WindowsInput.dll
+C:\Users\Вова\source\repos\Rust\Rust\bin\Debug\WindowsInput.xml
+C:\Users\Вова\source\repos\Rust\Rust\obj\Debug\Rust.csproj.AssemblyReference.cache
+C:\Users\Вова\source\repos\Rust\Rust\obj\Debug\Rust.csproj.SuggestedBindingRedirects.cache
+C:\Users\Вова\source\repos\Rust\Rust\obj\Debug\Rust.Form1.resources
+C:\Users\Вова\source\repos\Rust\Rust\obj\Debug\Rust.Properties.Resources.resources
+C:\Users\Вова\source\repos\Rust\Rust\obj\Debug\Rust.csproj.GenerateResource.cache
+C:\Users\Вова\source\repos\Rust\Rust\obj\Debug\Rust.csproj.CoreCompileInputs.cache
+C:\Users\Вова\source\repos\Rust\Rust\obj\Debug\Rust.csproj.CopyComplete
+C:\Users\Вова\source\repos\Rust\Rust\obj\Debug\Rust.exe
+C:\Users\Вова\source\repos\Rust\Rust\obj\Debug\Rust.pdb
